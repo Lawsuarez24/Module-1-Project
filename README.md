@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 <li>Open any browser</li>
-<li>Go to https://Lawsuarez24.github.io/Module-1-Project/
+<li>Go to git@github.com:Lawsuarez24/Module-1-Project.git
 
 When opening the application on your default browser, it should look like the following image below:
 
